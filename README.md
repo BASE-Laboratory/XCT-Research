@@ -36,31 +36,31 @@ This repository provides an organised workspace for research into solid-state ba
 
 
 
-\## Environment
+## Environment
 
 
 
-\- Python 3.13
+- Python 3.13
 
-\- NumPy
+- NumPy
 
-\- SciPy
+- SciPy
 
-\- scikit-image
+- scikit-image
 
-\- SimpleITK
+- SimpleITK
 
-\- h5py
+- h5py
 
-\- JupyterLab
+- JupyterLab
 
-\- Matplotlib
+- Matplotlib
 
-\- pandas
+- pandas
 
 
 
-\## Getting Started
+## Getting Started
 
 
 
@@ -68,7 +68,7 @@ Create and activate a virtual environment, then install the packages listed in `
 
 
 
-\## Data and Reproducibility
+## Data and Reproducibility
 
 
 
