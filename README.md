@@ -5,7 +5,7 @@
 \## Project
 
 
-
+ 
 \*\*The Self-Driving Microscope: Predicting Stochastic Failure in Solid-State Batteries using Physics-Informed AI\*\*
 
 
