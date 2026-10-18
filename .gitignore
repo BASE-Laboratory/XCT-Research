@@ -1,0 +1,25 @@
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local secrets
+.env
+
+# Local research data
+data/*
+!data/.gitkeep
+
+# Generated outputs
+results/*
+!results/.gitkeep
+
+figures/*
+!figures/.gitkeep
