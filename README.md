@@ -1,16 +1,16 @@
-\#  XCR-Research
+# XCR-Research
 
 
 
-\## Project
+## Project
 
 
  
-\*\*The Self-Driving Microscope: Predicting Stochastic Failure in Solid-State Batteries using Physics-Informed AI\*\*
+*\*The Self-Driving Microscope: Predicting Stochastic Failure in Solid-State Batteries using Physics-Informed AI\*\*
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -18,21 +18,21 @@ This repository provides an organised workspace for research into solid-state ba
 
 
 
-\## Repository Structure
+## Repository Structure
 
 
 
-\- `data/` — datasets and input data
+- `data/` — datasets and input data
 
-\- `notebooks/` — exploratory analysis and Jupyter notebooks
+- `notebooks/` — exploratory analysis and Jupyter notebooks
 
-\- `src/` — reusable Python source code
+- `src/` — reusable Python source code
 
-\- `results/` — model outputs and evaluation results
+- `results/` — model outputs and evaluation results
 
-\- `figures/` — plots and research visualisations
+- `figures/` — plots and research visualisations
 
-\- `tests/` — tests for research code
+- `tests/` — tests for research code
 
 
 
